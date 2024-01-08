@@ -1,0 +1,45 @@
+.bg-img{
+    font-family: Merriweather;
+    background-image: url('../Banner\ Image.png');
+    width: 1300px;
+height: 600px;
+margin: 0% auto;
+ border-radius: 16px;
+
+}
+.background-tittle{
+    color: rgb(255, 255, 255);
+font-size: 32px;
+font-weight: 400;
+text-align: center;
+}
+
+.bg-tittle{
+    color: white;
+text-align: center;
+font-size: 70px;
+font-weight: 900;
+margin: 230px 300px;
+width: 800;
+
+}
+
+/* main style */
+.differce-in-section{
+    margin: 700px;
+}
+
+.off-sec{
+    color: rgb(241, 11, 11);
+text-align: center;
+font-family: Inter;
+font-size: 80px;
+font-weight: 700;
+}
+.section-description{
+    font-family: Inter;
+    text-align: center;
+}
+.holiday{
+    color:rgb(241, 11, 11) ;
+}
