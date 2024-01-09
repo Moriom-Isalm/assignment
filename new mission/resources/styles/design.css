@@ -1,45 +1,21 @@
-.bg-img{
-    font-family: Merriweather;
-width: 1320px;
-height: 600px;
-margin: 0% auto;
-border-radius: 16px;
-background-image: url('../Banner\ Image.png');
-background:  rgba(0, 0, 0, 0) 100%);
-
-
-
+/* header style */
+header{
+    margin: 0px;
+    padding: 0px;
 }
-.background-tittle{
-    color: cyan;
+.images-header{
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.whole{
+    position: relative;
     text-align: center;
-    font-family: Merriweather;
-    font-size: 50px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    padding-top: 150PX;
 }
-
-.background-wr{
-    color: cyan;
-text-align: center;
-font-family: Merriweather;
-font-size: 75px;
-font-style: normal;
-font-weight: 900;
-line-height: 95px; /* 131.944% */
-width: 632px;
-padding-left: 350px;
-}
-.background-tittle .background-wr{
-    justify-content: space-around;
-}
-]
 
 }
 
 /* main style */
+
 .differce-in-section{
     margin: 700px;
 }
@@ -67,6 +43,52 @@ font-size: 30px;
 font-weight: 700;
 
 }
-.distance{
-    margin: 50px;
+/* welcom styles */
+.wel-party {
+    background-image: url('../Vectorrr.png');
+
+    width: 1320px;
+height: 600px;
+margin: auto;
+
+}
+
+.wel-tittle{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+padding: 120px 500px 1px 120px;
+}
+.wel-description{
+    color: white;
+font-size: 18px;
+font-weight: 150;
+padding-left: 120px;
+padding-right: 400px;
+
+}
+.btn {
+    color: rgb(141, 47, 47);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+}
+.btn-primary {
+    padding-left: 120px;
+    border: none;
+    box-shadow: none;
+}
+.side-image {
+    margin-left: 900px;
+    padding-top: 20px;
+}
+
+.opt {
+    background-image: url('../assets/design');
 }
