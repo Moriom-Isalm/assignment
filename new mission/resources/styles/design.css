@@ -89,6 +89,70 @@ font-weight: 700;
     padding-top: 20px;
 }
 
-.opt {
-    background-image: url('../assets/design');
+.optional{
+    background-color: rgb(247, 232, 238);
+    width: 1320px;
+height: 350px;
+margin-bottom: 50px;
 }
+.opt {
+    color: #F00;
+ padding-top: 60px;
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-weight: 400;
+line-height: 56px; /* 175% */
+list-style: none;
+}
+
+ .list-dlt {
+     list-style: none;
+ }
+
+.optional-btn {
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+padding: 10px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: white;
+border: azure;
+}
+
+.new-comming-soon{
+    width: 1600px;
+height: 7335px;
+background: #FFF;
+margin-top: 20ox;
+}
+.coming-soon {
+    display: flex;
+}
+
+.come-tittle {
+    color: #F00;
+text-align: left;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
+.big-tittle{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.discrption{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; 
+width: 300px;
+
+}
+
+
